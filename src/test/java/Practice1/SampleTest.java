@@ -8,5 +8,6 @@ public class SampleTest {
 	public void appleTest()
 	{
 		System.out.println("apple tested");
+		System.out.println("Grapes tested");
 	}
 }
