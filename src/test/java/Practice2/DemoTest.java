@@ -8,6 +8,7 @@ public class DemoTest {
 	public void OrangeTest()
 	{
 		System.out.println("orange tested");
-		System.out.println("Banana tested");
+		System.out.println("zxccv");
+		System.out.println("asddf");
 	}
 }
